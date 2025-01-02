@@ -1,3 +1,5 @@
 # Rainbow-Song
 
-A Song about rainbows int he kwy of C major.
+A Song about rainbows in the key of C major.
+
+This is a happy song.
